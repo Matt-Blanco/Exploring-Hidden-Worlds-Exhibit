@@ -1,0 +1,26 @@
+[
+  {
+    "main": "Modern software is an intricate and complex ecosystem built from dozens of interconnected parts, \n and while as our technology has become better the code behind it is becoming increasingly difficult to understand. \n    In order to combat this new forms of representation are needed.",
+    "alt": "The next few steps explain the basics of the visualization, and how modern software is built by visualizing the code used for this website."
+  },
+  {
+    "main": "A single line of code can only do so much, but when grouped together they become a lot more powerful. In many cases code is separated into files based on functionality. In other words, code relating to similar functions will be placed in the same file. In this example the network.js code is dedicated to creating the network visualization you're seeing here.",
+    "alt": "You can use the mousewheel to zoom into the nodes, hover over each node to get their name, or click on each node to see the code it contains."
+  },
+  {
+    "main": "To further organize code, it can be broken into different statements (or smaller groups) through functions, conditionals, and loops. Each statement can have more groups within itself",
+    "alt": ""
+  },
+  {
+    "main": "Often times code will reference a statement from another file further complicating the web of software",
+    "alt": "Within the visualization, references are shown with the gold link."
+  },
+  {
+    "main": "One last piece of terminology are Classes. Classes contain all the relevant information surrounding a particular piece of data. Simple example of classes include a Shape or Student",
+    "alt": "Displayed now is an example node of a class (a very simplified example)."
+  },
+  {
+    "main": "Now you're all set to look at a larger project! You can always navigate back to these steps by clicking the onboarding icon in the legend on the next page, but hopefully this provided an introduction to code, and how complex it can become.",
+    "alt": ""
+  }
+]
